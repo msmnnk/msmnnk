@@ -3,8 +3,9 @@
 <img src = 'https://user-images.githubusercontent.com/93858009/188730308-fe255415-93b5-4764-9edc-c3a756185832.gif' width='300' align="right"/>
 <ul>
     <li>I am Mariia with double «i», but I prefer to introduce myself as Marié to make it easier. 🙈</li>
-    <li>I am a fluent English speaker (ESOL C1 level achieved and now on my way to C2). I am currently studying UX Design and Project Management at Google courses. 📚</li>
-    <li>I am a Bachelor of Computer Science but my activities are much beyond my stream of education. I have experience working as a Photographer, Illustrator, Announcer, Sales Manager and English Interpreter. Keep in mind that I am only 20 years old now. 😉</li>
+    <li>I am a fluent British and American English speaker (sometimes there is a mix in my head). I am currently studying Project Management at Google courses. 📚</li>
+    <li>I am a Bachelor of Computer Science and am on my way to a Master's degree at Cardiff University. I am simultaneously learning Mandarin Chinese Language at my uni as well. 🎓 </li>
+    <li>My activities are much beyond my stream of education. I have experience working as a Photographer, Illustrator, Announcer, Sales Manager and English Interpreter. Keep in mind that I am only 20 years old now. 😉</li>
     <li>I am looking forward to absorbing knowledge 🧠, gaining experience 🚀, collaborating 🤝 and creating amazing products to make the world better! ✨</li>
 </ul>
 
@@ -12,7 +13,7 @@
 ```python
     class WhoAmI:
 	user = 'Mariia Semenenko'
-   	occupation = 'Computer Science Student'
+   	occupation = 'Advanced Computer Science Student'
     
    	hobbies = [
    		'Photography'
@@ -29,11 +30,11 @@
    	]
    
      def getCity():
-        return Chester_England()
+        return Cardiff_Wales()
 
      def Ambitions():
-        LearnSignLanguage()
-        RunMarathon()
-        WriteBook()
+        LearnChineseLanguage()
+        RunHalfMarathon()
+        FinishMyBook()
         # Assume 2 more awesome ambitions here  ;)
   ```
