@@ -9,7 +9,7 @@
     <li>I am looking forward to absorbing knowledge 🧠, gaining experience 🚀, collaborating 🤝 and creating amazing products to make the world better! ✨</li>
 </ul>
 
-## 💁🏼‍♀️ Who Am I
+## 💁🏼‍♀️ Who am I?
 ```python
     class WhoAmI:
 	user = 'Mariia Semenenko'
