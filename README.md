@@ -2,10 +2,10 @@
 #### «There are 10 types of people in the world. Those who get Binary and those who don't...»
 <img src = 'https://user-images.githubusercontent.com/93858009/188730308-fe255415-93b5-4764-9edc-c3a756185832.gif' width='300' align="right"/>
 <ul>
-    <li>I am Mariia with a double «i», and my nickname Marié comes from the French style which inspires me a lot. I consider Frenchwomen to be the second most beautiful after Ukrainians (guess my origin now). 🙈</li>
-    <li>I am a fluent British and American English speaker (sometimes there is a mix in my head). I am currently studying Project Management and Data Analytics at Google courses. 📚</li>
+    <li>🌍 My name is Mariia with a double "i" and I am currently pursuing a Master's degree in Advanced Computer Science at Cardiff University. </li>
+    <li>🗣 My head sometimes spins with a delightful linguistic mix as I'm on a mission to master my fifth language: Mandarin Chinese. </li>
     <li>I am a Bachelor of Computer Science and am on my way to a Master's degree at Cardiff University. I am simultaneously learning Mandarin Chinese. It will be the fifth language I can speak. 🎓 </li>
-    <li>My activities are much beyond my stream of education. I have experience working as a Photographer, Illustrator, Announcer, Sales Manager and English Interpreter. Keep in mind that I am only 21 years old now. 😉</li>
+    <li>💼 Beyond the world of code, I've worn various hats: photographer, illustrator, announcer, school teacher, sales manager, and interpreter. And I'm just 21! </li>
     <li>I am looking forward to absorbing knowledge 🧠, gaining experience 🚀, collaborating 🤝 and creating amazing products to make the world better! ✨</li>
 </ul>
 
