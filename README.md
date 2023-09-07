@@ -4,7 +4,6 @@
 <ul>
     <li>🌍 My name is Mariia with a double "i" and I am currently pursuing a Master's degree in Advanced Computer Science at Cardiff University. </li>
     <li>🗣 My head sometimes spins with a delightful linguistic mix as I'm on a mission to master my fifth language: Mandarin Chinese. </li>
-    <li>I am a Bachelor of Computer Science and am on my way to a Master's degree at Cardiff University. I am simultaneously learning Mandarin Chinese. It will be the fifth language I can speak. 🎓 </li>
     <li>💼 Beyond the world of code, I've worn various hats: photographer, illustrator, announcer, school teacher, sales manager, and interpreter. And I'm just 21! </li>
     <li>I am looking forward to absorbing knowledge 🧠, gaining experience 🚀, collaborating 🤝 and creating amazing products to make the world better! ✨</li>
 </ul>
